@@ -1,0 +1,11 @@
+Synthetic job description — Python / ML Intern
+
+Responsibilities:
+- Build Python scripts and data-processing workflows.
+- Use SQL and pandas to clean and analyze data.
+- Understand machine learning fundamentals and model evaluation.
+- Explore natural language processing and text analysis.
+- Use Git and GitHub for version control.
+- Communicate findings clearly and collaborate on projects.
+
+Preferred skills: Python, SQL, pandas, scikit-learn, machine learning, NLP, Git, data analysis, statistics, and communication.

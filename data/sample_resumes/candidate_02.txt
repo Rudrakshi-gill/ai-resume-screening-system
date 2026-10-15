@@ -1,0 +1,6 @@
+SYNTHETIC SAMPLE RESUME — Candidate 02
+
+Profile: Front-end development student.
+Skills: HTML, CSS, JavaScript, React, communication, GitHub.
+Projects: Built a responsive portfolio site and a small dashboard.
+Note: This is fictional sample data for software testing only.

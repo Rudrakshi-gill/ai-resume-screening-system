@@ -1,0 +1,6 @@
+SYNTHETIC SAMPLE RESUME — Candidate 03
+
+Profile: Data analytics student.
+Skills: Python, SQL, Excel, Power BI, data visualization, statistics, pandas, communication.
+Projects: Analyzed a synthetic sales dataset and created charts and reports.
+Note: This is fictional sample data for software testing only.

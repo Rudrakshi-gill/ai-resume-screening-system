@@ -1,0 +1,6 @@
+SYNTHETIC SAMPLE RESUME — Candidate 01
+
+Profile: Computer science student interested in applied machine learning.
+Skills: Python, SQL, pandas, scikit-learn, machine learning, natural language processing, statistics, Git, data analysis.
+Projects: Built a text classification prototype and a data cleaning workflow in Python.
+Note: This is fictional sample data for software testing only.
