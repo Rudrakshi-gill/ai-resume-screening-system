@@ -14,7 +14,7 @@ def extract_text(filename: str, content: bytes) -> str:
         return content.decode("utf-8", errors="replace")
 
     if suffix == ".pdf":
-        import fitz  # PyMuPDF
+        import pymupdf as fitz
         pages = []
         with fitz.open(stream=content, filetype="pdf") as document:
             for page in document:
